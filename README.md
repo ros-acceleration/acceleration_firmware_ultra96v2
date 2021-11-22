@@ -2,7 +2,7 @@
 
 | Board | Picture | Description |
 |------------|-------|-------------|
-| [Avnet Ultra96-V2 Board (`ultra96v2`)](https://www.avnet.com/wps/portal/us/products/new-product-introductions/npi/aes-ultra96-v2/) | ![](https://www.avnet.com/wps/wcm/connect/onesite/1e23775d-56ab-44a9-b21d-7a84e0b7934f/ultra96-main-3.png) | The Ultra96-V2 updates and refreshes the Ultra96 product that was released in 2018. Like Ultra96, the Ultra96-V2 is an Arm-based, Xilinx Zynq UltraScale+™ MPSoC development board based on the Linaro 96Boards Consumer Edition (CE) specification. | 
+| [Avnet Ultra96-V2 Board (`ultra96v2`)](https://www.avnet.com/wps/portal/us/products/new-product-introductions/npi/aes-ultra96-v2/) | ![](https://www.96boards.org/product/ce/ultra96/images/ultra96-angle3-sd.png) | The Ultra96-V2 updates and refreshes the Ultra96 product that was released in 2018. Like Ultra96, the Ultra96-V2 is an Arm-based, Xilinx Zynq UltraScale+™ MPSoC development board based on the Linaro 96Boards Consumer Edition (CE) specification. | 
 
 This repository provides Xilinx's firmware artifacts for the ultra96v2 board meant to accelerate ROS 2 robotic applications.
 
